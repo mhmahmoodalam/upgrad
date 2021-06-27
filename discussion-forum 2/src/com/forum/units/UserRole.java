@@ -1,5 +1,7 @@
 package com.forum.units;
 
 public enum UserRole {
-	ADMIN, MODERATOR, USER
+  ADMIN,
+  MODERATOR,
+  USER
 }

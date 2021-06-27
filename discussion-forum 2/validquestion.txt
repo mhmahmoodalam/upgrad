@@ -1,0 +1,76 @@
+Welcome to discussion forum login
+Enter your username : 
+moderate
+Enter your password : 
+moderate
+Welcome moderate
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+1
+Enter question title : 
+
+Invalid question title. Please enter valid question title
+Enter question title : 
+
+Invalid question title. Please enter valid question title
+Enter question title : 
+ 
+Invalid question title. Please enter valid question title
+Enter question title : 
+      
+Invalid question title. Please enter valid question title
+Enter question title : 
+question1
+Enter question : 
+
+Invalid question body. Please enter valid question body
+Enter question : 
+   
+Invalid question body. Please enter valid question body
+Enter question : 
+ 
+Invalid question body. Please enter valid question body
+Enter question : 
+this is the first question
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+1. Question Title - question1
+Question - this is the first question
+Upvote - 0
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+2
+Enter question number you want to reply to : 
+1
+Post your reply
+testing duplicate reply
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+2
+Enter question number you want to reply to : 
+1
+Post your reply
+testing duplicate reply
+This reply is already present for this question
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu

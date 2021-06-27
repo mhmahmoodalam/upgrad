@@ -2,93 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f9ce024-e1b3-4fce-9bb7-6639513a23c3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/main/UserInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Question.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Reply.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Reply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/TimeStamp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Upvote.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Upvote.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/util/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/util/Utility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/QuestionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/QuestionService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/ReplyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/ReplyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/UpvoteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/UpvoteService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/forum/main/UserInterface.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/main/DiscussionForum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/main/DiscussionForum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/forum/units/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Question.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/forum/units/Reply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Reply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/forum/units/TimeStamp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/forum/units/Upvote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Upvote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/forum/units/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/UserRole.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/forum/util/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/util/Utility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/QuestionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/QuestionServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/ReplyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/ReplyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/ReplyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/ReplyServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/UserServiceImpl.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1841821485">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="166" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="166" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-607">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,6 +48,8 @@
     <option name="width" value="1440" />
     <option name="height" value="811" />
   </component>
+  <component name="ProjectId" id="1uWy6Xf4PGMnAZBD2Aot4ga5YSb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -164,25 +108,28 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557488975932" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.forum.main.DiscussionForum" />
+      <module name="discussion-forum" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -194,12 +141,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -207,16 +156,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -260,9 +210,6 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java">
