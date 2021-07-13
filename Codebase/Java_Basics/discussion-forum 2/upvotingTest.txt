@@ -1,0 +1,339 @@
+upvoting test:
+Welcome to discussion forum login
+Enter your username : 
+admin
+Enter your password : 
+admin
+Welcome admin
+1 Create new user
+2 Ask a question
+3 See all questions
+4 Log Out
+
+ Enter your choice
+3
+No question posted yet
+1 Create new user
+2 Ask a question
+3 See all questions
+4 Log Out
+
+ Enter your choice
+1
+Enter username : 
+moderate
+Enter password : 
+moderate
+Enter email : 
+moderate@example.com
+What role : 
+1ADMIN
+2MODERATOR
+3USER
+
+ Enter your choice
+2
+1 Create new user
+2 Ask a question
+3 See all questions
+4 Log Out
+
+ Enter your choice
+1
+Enter username : 
+regular
+Enter password : 
+regular
+Enter email : 
+regular@example.com
+What role : 
+1ADMIN
+2MODERATOR
+3USER
+
+ Enter your choice
+3
+1 Create new user
+2 Ask a question
+3 See all questions
+4 Log Out
+
+ Enter your choice
+4
+Welcome to discussion forum login
+Enter your username : 
+regular
+Enter your password : 
+regular
+Welcome regular
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+1
+Enter question title : 
+Is my output right?
+Enter question : 
+Hi I am checking if my output for the oops concept final submission is correct or not.Please help.
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+1. Question Title - Is my output right?
+Question - Hi I am checking if my output for the oops concept final submission is correct or not.Please help.
+Upvote - 0
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+5
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+1
+Enter question title : 
+Regular question 2
+Enter question : 
+This is regular question2 by regular user
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+1. Question Title - Is my output right?
+Question - Hi I am checking if my output for the oops concept final submission is correct or not.Please help.
+Upvote - 0
+2. Question Title - Regular question 2
+Question - This is regular question2 by regular user
+Upvote - 0
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+3
+For which question number you want to see replies : 
+2
+No reply posted yet
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+1
+Enter question number you want to upvote : 
+2
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+5
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+2. Question Title - Regular question 2
+Question - This is regular question2 by regular user
+Upvote - 1
+1. Question Title - Is my output right?
+Question - Hi I am checking if my output for the oops concept final submission is correct or not.Please help.
+Upvote - 0
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+1
+Enter question number you want to upvote : 
+2
+You have already upvoted
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+2
+Enter question number you want to reply to : 
+2
+Post your reply
+i have tested the output for regualr upvoting.It works Thanks
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+1
+Enter question number you want to upvote : 
+2
+You have already upvoted
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+3
+For which question number you want to see replies : 
+2
+1. Comment - i have tested the output for regualr upvoting.It works Thanks
+Upvote - 0
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+1
+Enter reply number you want to upvote : 
+1
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+1
+Enter reply number you want to upvote : 
+1
+You have already upvoted
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+3
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+1
+Enter question number you want to upvote : 
+1
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+5
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+2. Question Title - Regular question 2
+Question - This is regular question2 by regular user
+Upvote - 1
+1. Question Title - Is my output right?
+Question - Hi I am checking if my output for the oops concept final submission is correct or not.Please help.
+Upvote - 1
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+2
+Enter question number you want to reply to : 
+1
+Post your reply
+i have tested the upvoting validation as well. it works
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+3
+For which question number you want to see replies : 
+1
+2. Comment - i have tested the upvoting validation as well. it works
+Upvote - 0
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+1
+Enter reply number you want to upvote : 
+1
+You have already upvoted
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+1
+Enter reply number you want to upvote : 
+1
+You have already upvoted
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+2
+Enter reply number you want to delete : 
+1
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+1
+Enter reply number you want to upvote : 
+10
+Enter correct reply from displayed replies
+1
+Enter correct reply from displayed replies
+3
+Enter correct reply from displayed replies
+
+0
+Exception in thread "main" java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Long.parseLong(Long.java:601)
+	at java.lang.Long.parseLong(Long.java:631)
+	at discusion.forum.activiy.UserActivity.getReply(UserActivity.java:269)
+	at discusion.forum.activiy.UserActivity.upvoteReply(UserActivity.java:238)
+	at com.forum.main.DiscussionForum.processReplyChoice(DiscussionForum.java:149)
+	at com.forum.main.DiscussionForum.replyMenu(DiscussionForum.java:136)
+	at discusion.forum.activiy.UserActivity.seeAllReplies(UserActivity.java:232)
+	at com.forum.main.DiscussionForum.processQuestionChoice(DiscussionForum.java:113)
+	at com.forum.main.DiscussionForum.questionMenu(DiscussionForum.java:96)
+	at discusion.forum.activiy.UserActivity.seeAllQuestions(UserActivity.java:119)
+	at com.forum.main.DiscussionForum.classifyMenuChoice(DiscussionForum.java:53)
+	at com.forum.main.DiscussionForum.menu(DiscussionForum.java:35)
+	at com.forum.main.DiscussionForum.main(DiscussionForum.java:20)
+
+Process finished with exit code 1

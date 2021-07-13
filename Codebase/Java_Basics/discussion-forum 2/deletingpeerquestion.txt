@@ -1,0 +1,406 @@
+"C:\Program Files\Java\jdk1.8.0_181\bin\java.exe" -Dvisualvm.id=94947140039900 "-javaagent:D:\soft\IntelliJ\IntelliJ IDEA Community Edition 2021.1\lib\idea_rt.jar=54658:D:\soft\IntelliJ\IntelliJ IDEA Community Edition 2021.1\bin" -Dfile.encoding=UTF-8 -classpath "D:\Workspace\upgrad\discussion-forum 2\bin;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar" com.forum.main.DiscussionForum
+Welcome to discussion forum login
+Enter your username : 
+moderate
+Enter your password : 
+moderate
+You do not have the account. Request admin to get account in discussion forum
+Welcome to discussion forum login
+Enter your username : 
+moderate
+Enter your password : 
+moderate
+You do not have the account. Request admin to get account in discussion forum
+Welcome to discussion forum login
+Enter your username : 
+admin
+Enter your password : 
+admin
+Welcome admin
+1 Create new user
+2 Ask a question
+3 See all questions
+4 Log Out
+
+ Enter your choice
+1
+Enter username : 
+moderate
+Enter password : 
+moderate
+Enter email : 
+moderate@example.com
+What role : 
+1ADMIN
+2MODERATOR
+3USER
+
+ Enter your choice
+2
+1 Create new user
+2 Ask a question
+3 See all questions
+4 Log Out
+
+ Enter your choice
+1
+Enter username : 
+regular
+Enter password : 
+regular
+Enter email : 
+regular@example.com
+What role : 
+1ADMIN
+2MODERATOR
+3USER
+
+ Enter your choice
+3
+1 Create new user
+2 Ask a question
+3 See all questions
+4 Log Out
+
+ Enter your choice
+1
+Enter username : 
+regular2
+Enter password : 
+regular2
+Enter email : 
+regular2@example.com
+What role : 
+1ADMIN
+2MODERATOR
+3USER
+
+ Enter your choice
+3
+1 Create new user
+2 Ask a question
+3 See all questions
+4 Log Out
+
+ Enter your choice
+4
+Welcome to discussion forum login
+Enter your username : 
+regular2
+Enter your password : 
+regular2
+Welcome regular2
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+1
+Enter question title : 
+question byregualr2 user
+Enter question : 
+hi i am regular user asking my firat questio here. This is to test if another regular user can delete my question.
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+1. Question Title - question byregualr2 user
+Question - hi i am regular user asking my firat questio here. This is to test if another regular user can delete my question.
+Upvote - 0
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+1
+Enter question number you want to upvote : 
+1
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+5
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+3
+Welcome to discussion forum login
+Enter your username : 
+regular
+Enter your password : 
+regular
+Welcome regular
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+1. Question Title - question byregualr2 user
+Question - hi i am regular user asking my firat questio here. This is to test if another regular user can delete my question.
+Upvote - 1
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+4
+Enter question number you want to delete : 
+1
+You are not authorised to delete this question
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+2
+Enter question number you want to reply to : 
+1
+Post your reply
+i tried deleting the question by regular 2 .I couldnot delete please explain
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+1
+Enter question number you want to upvote : 
+1
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+2
+Enter question number you want to reply to : 
+1
+Post your reply
+I have upvoted this question
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+3
+For which question number you want to see replies : 
+1
+1. Comment - i tried deleting the question by regular 2 .I couldnot delete please explain
+Upvote - 0
+2. Comment - I have upvoted this question
+Upvote - 0
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+3
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+5
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+1. Question Title - question byregualr2 user
+Question - hi i am regular user asking my firat questio here. This is to test if another regular user can delete my question.
+Upvote - 2
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+5
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+3
+Welcome to discussion forum login
+Enter your username : 
+regular2
+Enter your password : 
+regular2
+Welcome regular2
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+1. Question Title - question byregualr2 user
+Question - hi i am regular user asking my firat questio here. This is to test if another regular user can delete my question.
+Upvote - 2
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+3
+For which question number you want to see replies : 
+1
+1. Comment - i tried deleting the question by regular 2 .I couldnot delete please explain
+Upvote - 0
+2. Comment - I have upvoted this question
+Upvote - 0
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+2
+Enter reply number you want to delete : 
+2
+You are not authorised to delete this reply
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+3
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+2
+Enter question number you want to reply to : 
+1
+Post your reply
+i tried deleting the reply by regular2 i couldnot.
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+2
+Enter question number you want to reply to : 
+1
+Post your reply
+why
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+3
+For which question number you want to see replies : 
+1
+1. Comment - i tried deleting the question by regular 2 .I couldnot delete please explain
+Upvote - 0
+2. Comment - I have upvoted this question
+Upvote - 0
+3. Comment - i tried deleting the reply by regular2 i couldnot.
+Upvote - 0
+4. Comment - why
+Upvote - 0
+1 Upvote a reply
+2 Delete a reply
+3 Return to question menu
+
+ Enter your choice
+3
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+5
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+1. Question Title - question byregualr2 user
+Question - hi i am regular user asking my firat questio here. This is to test if another regular user can delete my question.
+Upvote - 2
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+4
+Enter question number you want to delete : 
+1
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+2
+No question posted yet
+1 Ask a question
+2 See all questions
+3 Log Out
+
+ Enter your choice
+3
+1 Upvote a question
+2 Reply to a question
+3 See replies for a question
+4 Delete a question
+5 Return to main menu
+
+ Enter your choice
+3
+For which question number you want to see replies : 
+1
+Enter correct question from displayed questions
+0
+Enter correct question from displayed questions
+
+Exception in thread "main" java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Long.parseLong(Long.java:601)
+	at java.lang.Long.parseLong(Long.java:631)
+	at discusion.forum.activiy.UserActivity.getQuestion(UserActivity.java:213)
+	at discusion.forum.activiy.UserActivity.seeAllReplies(UserActivity.java:223)
+	at com.forum.main.DiscussionForum.processQuestionChoice(DiscussionForum.java:113)
+	at com.forum.main.DiscussionForum.questionMenu(DiscussionForum.java:96)
+	at discusion.forum.activiy.UserActivity.seeAllQuestions(UserActivity.java:119)
+	at com.forum.main.DiscussionForum.classifyMenuChoice(DiscussionForum.java:53)
+	at com.forum.main.DiscussionForum.menu(DiscussionForum.java:35)
+	at com.forum.main.DiscussionForum.main(DiscussionForum.java:20)
+
+Process finished with exit code 1
